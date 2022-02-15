@@ -1,5 +1,18 @@
 # TensorFlow - Help Protect the Great Barrier Reef
 
+### Table of Content  
+1. Goal of the Competition
+2. Cross-validation
+3. Models
+4. Data Augmentation
+5. Optimizer
+6. Training
+7. Inference
+8. Performance Analysis & Ideas
+9. Lesson Learned
+10. Competition Notebooks
+
+
 ### Goal of the Competition
 The goal of this competition is to accurately identify starfish in real-time by building an object detection model trained on underwater videos of coral reefs. [[Competition Homepage](https://www.kaggle.com/c/tensorflow-great-barrier-reef/overview)]
 
